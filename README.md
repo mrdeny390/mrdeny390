@@ -1,6 +1,6 @@
  Hi I'm Tikeswar Mohanta
  
- -🔭 I’m currently working on my personal projects
+ -🔭 I’m currently working on my personal projects <br>
  -🌱 I’m currently learning reactjs with javascript and typescript
  -💬 Ask me about ...
  -📫 How to reach me: tikeswarmohanta71@gmail.com
