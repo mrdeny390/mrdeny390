@@ -1,4 +1,10 @@
- Hi Developers 👋
+ Hi I'm Tikeswar Mohanta
+ 
+ 🔭 I’m currently working on my personal projects
+ 🌱 I’m currently learning reactjs with javascript and typescript
+ 💬 Ask me about ...
+ 📫 How to reach me: tikeswarmohanta71@gmail.com
+ ⚡ Fun fact: i'm funny👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-Tikeswar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tikeswar-mohanta-606888225/)](https://www.linkedin.com/in/tikeswar-mohanta-606888225)
