@@ -4,6 +4,7 @@
  -🌱 I’m currently learning reactjs with javascript and typescript <br>
  -💬 Ask me about ... <br>
  -📫 How to reach me: tikeswarmohanta71@gmail.com <br>
+ - 😄 Pronouns: He/him <br>
  -⚡ Fun fact: i'm funny👋 <br>
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
