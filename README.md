@@ -1,7 +1,7 @@
  Hi I'm Tikeswar Mohanta
  
  -🔭 I’m currently working on my personal projects <br>
- -🌱 I’m currently learning reactjs with javascript and typescript <br>
+ -🌱 I’m currently working reactjs with javascript and typescript <br>
  -💬 Ask me about ... <br>
  -📫 How to reach me: tikeswarmohanta71@gmail.com <br>
  -😄 Pronouns: He/him <br>
